@@ -1,5 +1,4 @@
 import argparse
-import boto3
 
 def is_armstrong(num):
     num_str = str(num)
